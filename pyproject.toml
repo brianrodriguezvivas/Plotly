@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prueba"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Brian Journeyt Rodriguez Vivas <110246636+brianrodriguezvivas@users.noreply.github.com>"]
 readme = "README.md"
